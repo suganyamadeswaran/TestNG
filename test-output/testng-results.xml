@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26956" started-at="2019-05-09T05:02:39Z" finished-at="2019-05-09T05:03:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26956" started-at="2019-05-09T05:02:39Z" finished-at="2019-05-09T05:03:06Z">
+      <class name="com.testNG.testCases.FBTest">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:com.testNG.testCases.FBTest@523884b2]" name="initializeDriver" is-config="true" duration-ms="4499" started-at="2019-05-09T05:02:39Z" finished-at="2019-05-09T05:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testNG.testCases.FBTest@523884b2]" name="login" duration-ms="7377" started-at="2019-05-09T05:02:44Z" finished-at="2019-05-09T05:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testNG.testCases.FBTest@523884b2]" name="tearDown" is-config="true" duration-ms="223" started-at="2019-05-09T05:02:51Z" finished-at="2019-05-09T05:02:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:com.testNG.testCases.FBTest@523884b2]" name="initializeDriver" is-config="true" duration-ms="3606" started-at="2019-05-09T05:02:51Z" finished-at="2019-05-09T05:02:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="loginSanthosh()[pri:0, instance:com.testNG.testCases.FBTest@523884b2]" name="loginSanthosh" duration-ms="10994" started-at="2019-05-09T05:02:55Z" finished-at="2019-05-09T05:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSanthosh -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testNG.testCases.FBTest@523884b2]" name="tearDown" is-config="true" duration-ms="217" started-at="2019-05-09T05:03:06Z" finished-at="2019-05-09T05:03:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testNG.testCases.FBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
